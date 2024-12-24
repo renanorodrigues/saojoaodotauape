@@ -1,0 +1,14 @@
+/*
+  Arquivo de estilização principal para customizações do site
+*/
+
+#background-header {
+  background-image: url('../assets/paroquia_tauape.png');
+  background-size: cover;
+  background-position: center;
+}
+
+.card-image-project {
+  height: 50%;
+  object-fit: cover;
+}
