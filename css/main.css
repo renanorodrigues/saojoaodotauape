@@ -6,6 +6,7 @@
   background-image: url('../assets/paroquia_tauape.png');
   background-size: cover;
   background-position: center;
+  height: 50vh;
 }
 
 .card-image-project {
